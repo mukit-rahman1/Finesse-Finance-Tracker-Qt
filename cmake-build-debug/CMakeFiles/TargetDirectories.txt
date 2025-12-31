@@ -1,0 +1,3 @@
+C:/Queen's/ELEC 376/Elec376_F25_group12/cmake-build-debug/CMakeFiles/Elec376_F25_group12.dir
+C:/Queen's/ELEC 376/Elec376_F25_group12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Queen's/ELEC 376/Elec376_F25_group12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+4	918	7808593648168124	CMakeFiles/Elec376_F25_group12.dir/main.cpp.obj	f50549fc84cc5113
+867	1056	7808600191763081	Elec376_F25_group12.exe	ccfc4a64060fa835
+24	131	7808593640363562	CMakeFiles/Elec376_F25_group12.dir/OneTimeExpense.cpp.obj	9345b6a24ce22670
+33	128	7808593640333453	CMakeFiles/Elec376_F25_group12.dir/RecurringExpense.cpp.obj	10c76d2cb1ccf05a
+0	866	7808600189868827	CMakeFiles/Elec376_F25_group12.dir/Backend/Model/main.cpp.obj	cf29fad57784a9f9
+15	623	7808593645273535	CMakeFiles/Elec376_F25_group12.dir/Expense.cpp.obj	c1ee24f187ffe3a8
+2	1180	7808819607125580	build.ninja	a873d1f0cbab36e1
+8	474	7808600186048661	CMakeFiles/Elec376_F25_group12.dir/Backend/Model/Expense.cpp.obj	6cdde9d05704eff5
