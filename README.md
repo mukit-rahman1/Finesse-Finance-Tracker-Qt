@@ -83,7 +83,7 @@ Made in ELEC376 Software Development Methology group project
 Database Breakdown:
 ![tables](https://github.com/mukit-rahman1/Finesse-Finance-Tracker-Qt/blob/main/Pics/tables.png?raw=true)
 
-Home Page:
+Home Page:  
 ![home](https://github.com/mukit-rahman1/Finesse-Finance-Tracker-Qt/blob/main/Pics/home.png?raw=true)
 
 Profile Page:  
