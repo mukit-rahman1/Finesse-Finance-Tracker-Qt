@@ -18,10 +18,8 @@ int main(int argc, char *argv[]) {
     QQmlApplicationEngine engine;
 
     // Supabase configuration (NOT USING ENV VARIABLES FOR SIMPLICITY)
-    QString supabaseUrl = "https://desqwioiubqlcrtqnxqw.supabase.co";
-    QString supabaseAnonKey =
-        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRlc3F3aW9pdWJxbGNydHFueHF3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjMwNDk2NzcsImV4cCI6MjA3ODYyNTY3N30.mUhffcr1Lt2rn9IEaJ1m399lIWrSVIniLOGZhIpgMSY";
-
+    // ENV vars moved to Qt Creator Env vars in settings
+    
     // Initialize Supabase Auth
     auto *auth = new SupabaseAuth(&app);
     auth->setSupabaseConfig(supabaseUrl, supabaseAnonKey);
