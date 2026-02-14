@@ -15,9 +15,7 @@ SupabaseClient::SupabaseClient(QObject *parent)
 
 // Set Supabase project URL and anon key (NOT USING ENV VARIABLES FOR SIMPLICITY)
 void SupabaseClient::setSupabaseConfig(const QString &projectUrl, const QString &anonKey) {
-    m_projectUrl = "https://desqwioiubqlcrtqnxqw.supabase.co";
-    m_anonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRlc3F3aW9pdWJxbGNydHFueHF3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjMwNDk2NzcsImV4cCI6MjA3ODYyNTY3N30.mUhffcr1Lt2rn9IEaJ1m399lIWrSVIniLOGZhIpgMSY";
-    qDebug() << "[SupabaseClient] Config set - URL:" << m_projectUrl;
+   qDebug() << "[SupabaseClient] Config set - URL:" << m_projectUrl;
 }
 
 void SupabaseClient::setAccessToken(const QString &token) {
